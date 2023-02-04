@@ -1,0 +1,9 @@
+[submodule "website_game"]
+	path = website_game
+	url = https://github.com/JJMxr04/website_game.git
+[submodule "Aterra_App"]
+	path = Aterra_App
+	url = https://github.com/JJMxr04/Aterra_App.git
+[submodule "aterra"]
+	path = aterra
+	url = https://github.com/JJMxr04/aterra.git
