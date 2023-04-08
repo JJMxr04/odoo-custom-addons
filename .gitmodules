@@ -7,3 +7,6 @@
 [submodule "aterra"]
 	path = aterra
 	url = https://github.com/JJMxr04/aterra.git
+[submodule "AterraTCG"]
+	path = AterraTCG
+	url = https://github.com/JJMxr04/AterraTCG.git
